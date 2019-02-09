@@ -1,6 +1,6 @@
 public class HelloGitMaven {
     public static void main(String[] args) {
-        System.out.println("Hello, Git, Maven!");
+        System.out.println("Hello again, Git, Maven!");
     }
 
 }
